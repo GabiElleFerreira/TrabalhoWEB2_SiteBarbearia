@@ -1,0 +1,6 @@
+{
+  "name": "Vintage&Co Barbearia",
+  "description": "Sistema de agendamento de barbearia com gestão de horários dos barbeiros, base de clientes, cartão fidelidade e arquitetura em JavaScript (Node.js + Express) com banco PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

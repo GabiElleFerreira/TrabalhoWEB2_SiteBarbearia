@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de implementação para o sistema de agendamento Vintage&Co Barbearia com interface interativa, gestão de clientes e barbeiros, prevenção de conflitos de horários, cartão de fidelidade e visualizador completo da arquitetura Spring Boot + PostgreSQL.",
+  "updatedAt": "2026-10-16T15:46:28.140096856Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

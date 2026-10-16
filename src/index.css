@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+.font-display {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.card-gradient {
+  background: linear-gradient(135deg, #C89B3C 0%, #F2A900 100%);
+}
+
+.star-yellow {
+  color: #F2C94C;
+}
+
+/* Custom scrollbars for dark vintage aesthetic */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #150E06;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3a2a1b;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #C89B3C;
+}
